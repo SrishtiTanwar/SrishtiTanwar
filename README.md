@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SrishtiTanwar
+- 👋 Hi, I’m SrishtiTanwar
 
 <!---
 SrishtiTanwar/SrishtiTanwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
